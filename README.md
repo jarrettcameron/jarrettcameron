@@ -3,7 +3,7 @@
 ### I'm a fullstack web developer based in Boise, Idaho. I'm currently doing freelance work for local businesses in the treasure valley!
 
 ### Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrettcameron&layout=compact)
 
 ### Connect with Me
 <a href="https://www.linkedin.com/in/jarrett-cameron/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
