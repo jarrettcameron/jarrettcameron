@@ -1,24 +1,28 @@
-## Howdy! I'm Jarrett 🤠
+# Hi there! I'm Jarrett 👋
 
-### I'm a fullstack web developer based in Boise, Idaho. I'm currently doing freelance work for local businesses in the treasure valley!
+I'm a passionate Fullstack Web Developer with expertise in various technologies including HTML, CSS, Bootstrap, PHP, C#, SQL, JavaScript, Vue.js, Express.js, and Node.js. I love building responsive and dynamic web applications that deliver great user experiences. Currently, I'm excited to dive into learning Angular and React to further expand my skill set.
 
-### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrettcameron&layout=compact)
+## 🔧 Technologies & Tools
 
-### Connect with Me
-<a href="https://www.linkedin.com/in/jarrett-cameron/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- HTML | CSS | Bootstrap
+- PHP | C# | SQL
+- JavaScript | Vue.js | Express.js | Node.js
 
-<!--
-**jarrettcameron/jarrettcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Learning
 
-Here are some ideas to get you started:
+I'm currently focused on mastering Angular and React to enhance my frontend development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarrettcameron&show_icons=true&theme=dark)
+
+## 🌐 Portfolio
+
+Check out my portfolio website: [Portfolio](https://www.jarrettcameron.com)
+
+## 📫 Connect with Me
+
+Let's connect and collaborate:
+
+- LinkedIn: [](https://www.linkedin.com/in/jarrett-cameron/)
+- Email: disk@outlook.com
