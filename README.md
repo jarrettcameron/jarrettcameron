@@ -1,4 +1,5 @@
 ## Howdy! I'm Jarrett 🤠
+
 ### I'm a fullstack web developer based in Boise, Idaho. I'm currently doing freelance work for local businesses in the treasure valley!
 
 ### Stats
