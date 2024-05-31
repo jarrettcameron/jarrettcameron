@@ -1,5 +1,7 @@
 ## Howdy! I'm Jarrett 🤠
 I'm a fullstack web developer based in Boise, Idaho. I'm currently doing freelance work for local businesses in the treasure valley!
+
+### Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ### Connect with Me
