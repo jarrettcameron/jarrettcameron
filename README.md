@@ -14,15 +14,15 @@ I'm currently focused on mastering Angular and React to enhance my frontend deve
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarrettcameron&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
 ## 🌐 Portfolio
 
-Check out my portfolio website: [Portfolio](https://www.jarrettcameron.com)
+Check out my portfolio website: [Here](https://www.jarrettcameron.com)
 
 ## 📫 Connect with Me
 
 Let's connect and collaborate:
 
-- LinkedIn: [](https://www.linkedin.com/in/jarrett-cameron/)
+- LinkedIn: [Here](https://www.linkedin.com/in/jarrett-cameron/)
 - Email: disk@outlook.com
