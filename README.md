@@ -14,7 +14,7 @@ I'm currently focused on mastering Angular and React to enhance my frontend deve
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarrettcameron&layout=compact&theme=dark)
 
 ## 🌐 Portfolio
 
