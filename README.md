@@ -1,16 +1,15 @@
 # Hi there! I'm Jarrett 👋
 
-I'm a passionate Fullstack Web Developer with expertise in various technologies including HTML, CSS, Bootstrap, PHP, C#, SQL, JavaScript, Vue.js, Express.js, and Node.js. I love building responsive and dynamic web applications that deliver great user experiences. Currently, I'm excited to dive into learning Angular, React and Tailwind to further expand my skill set.
-
+I'm a passionate Fullstack Web Developer with expertise in various technologies including HTML, CSS, Bootstrap, PHP, C#, SQL, JavaScript, Vue.js, Express.js, and Node.js. I'm currently working with local businesses to create reliable web services, apart from that I'm also working on my own applications for myself and my friends and family.
 ## 🔧 Technologies & Tools
 
 - HTML | CSS | Bootstrap
-- PHP | C# | SQL
+- PHP | C# | SQL | MongoDB
 - JavaScript | Vue.js | Express.js | Node.js
 
 ## 🌱 Learning
 
-I'm currently focused on mastering Angular, React and Tailwind to enhance my frontend development skills.
+I'm currently learning Nuxt.js and SEO best practices across various on-going projects.
 
 ## 📊 GitHub Stats
 
@@ -18,7 +17,7 @@ I'm currently focused on mastering Angular, React and Tailwind to enhance my fro
 
 ## 🌐 Portfolio
 
-Check out my portfolio website: [Here](https://www.jarrettcameron.com)
+Check out my portfolio website: [Here](https://jarrettcameron.com)
 
 ## 📫 Connect with Me
 
